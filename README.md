@@ -1,2 +1,2 @@
 # blog
-a blog made with meteor
+a blog made with meteor.
